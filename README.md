@@ -1,1 +1,1 @@
-# My Portfolio WebSite for Heroku
+# My Portfolio WebSite for Github Pages and Heroku
