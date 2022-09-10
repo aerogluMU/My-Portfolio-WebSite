@@ -1,18 +1,24 @@
-# My Portfolio WebSite for Github Pages and Heroku
-
 <div align="center">
+  <h1>My Portfolio WebSite for Github Pages and Heroku</h1>
   <img alt="Demo" src="./Images/readme-img.png" />
-</div>
 
 <br/>
 
-<center>
+[![JS](https://badges.aleen42.com/src/javascript.svg)](#built-with) &nbsp;
+[![Node](https://badges.aleen42.com/src/node.svg)](#built-with) &nbsp;
+[![Node](https://badges.aleen42.com/src/atom.svg)](#built-with) &nbsp;
+[![Github](https://badges.aleen42.com/src/github.svg)](#my-github-page) &nbsp;
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](#my-heroku-portfolio) &nbsp;
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+</div>
 
-</center>
+## My Github Page
 
+You can visit my github page [from here](https://aeroglumu.github.io/My-Portfolio-WebSite/).
+
+## My Heroku Portfolio
+
+You can also visit my heroku portfolio [from here](https://alpereneroglu.herokuapp.com).
 
 ## Built With
 
@@ -20,10 +26,7 @@ This project was built using these technologies.
 
 - React.js
 - Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+- Atom
 
 ## Features
 
