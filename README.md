@@ -52,6 +52,6 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
-### Show your support
+### Developer
 
 The main design of this portfolio site was done by <a href="http://soumya-jit.tech/" target="_blank">soumyajit4419</a>. If you want such a portfolio site, you can visit <a href="http://soumya-jit.tech/" target="_blank">soumyajit4419</a>'s page.
