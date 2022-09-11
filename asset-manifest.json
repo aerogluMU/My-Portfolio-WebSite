@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-WebSite/static/css/main.43037f35.css",
-    "main.js": "/My-Portfolio-WebSite/static/js/main.ee0cdd3f.js",
+    "main.css": "/My-Portfolio-WebSite/static/css/main.d32812b0.css",
+    "main.js": "/My-Portfolio-WebSite/static/js/main.e24090c6.js",
     "static/js/415.55a0c812.chunk.js": "/My-Portfolio-WebSite/static/js/415.55a0c812.chunk.js",
     "static/js/787.0c8341db.chunk.js": "/My-Portfolio-WebSite/static/js/787.0c8341db.chunk.js",
     "static/media/Alperen_Eroglu_Resume.pdf": "/My-Portfolio-WebSite/static/media/Alperen_Eroglu_Resume.fdfe0a5c38fda8a2c0e5.pdf",
-    "static/media/home-main.svg": "/My-Portfolio-WebSite/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-main.svg": "/My-Portfolio-WebSite/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/TÜBİTAK_logo.png": "/My-Portfolio-WebSite/static/media/TÜBİTAK_logo.7a65c56db6c0865fb885.png",
     "static/media/about.png": "/My-Portfolio-WebSite/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/baykar.png": "/My-Portfolio-WebSite/static/media/baykar.e2cee359daae92ac1259.png",
     "static/media/home-bg.jpg": "/My-Portfolio-WebSite/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/My-Portfolio-WebSite/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/My-Portfolio-WebSite/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/avatar.svg": "/My-Portfolio-WebSite/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/My-Portfolio-WebSite/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My-Portfolio-WebSite/index.html",
-    "main.43037f35.css.map": "/My-Portfolio-WebSite/static/css/main.43037f35.css.map",
-    "main.ee0cdd3f.js.map": "/My-Portfolio-WebSite/static/js/main.ee0cdd3f.js.map",
+    "main.d32812b0.css.map": "/My-Portfolio-WebSite/static/css/main.d32812b0.css.map",
+    "main.e24090c6.js.map": "/My-Portfolio-WebSite/static/js/main.e24090c6.js.map",
     "415.55a0c812.chunk.js.map": "/My-Portfolio-WebSite/static/js/415.55a0c812.chunk.js.map",
     "787.0c8341db.chunk.js.map": "/My-Portfolio-WebSite/static/js/787.0c8341db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43037f35.css",
-    "static/js/main.ee0cdd3f.js"
+    "static/css/main.d32812b0.css",
+    "static/js/main.e24090c6.js"
   ]
 }
