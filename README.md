@@ -14,11 +14,11 @@
 
 ## My Github Page
 
-You can visit my github page [from here](https://aeroglumu.github.io/My-Portfolio-WebSite/).
+You can visit my github page <a href="https://aeroglumu.github.io/My-Portfolio-WebSite/" target="_blank">from here</a>.
 
 ## My Heroku Portfolio
 
-You can also visit my heroku portfolio [from here](https://alpereneroglu.herokuapp.com).
+You can also visit my heroku portfolio <a href="https://alpereneroglu.herokuapp.com" target="_blank">from here</a>.
 
 ## Built With
 
