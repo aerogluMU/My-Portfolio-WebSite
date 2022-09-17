@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio-WebSite/static/css/main.d32812b0.css",
-    "main.js": "/My-Portfolio-WebSite/static/js/main.e0a7fc9a.js",
+    "main.js": "/My-Portfolio-WebSite/static/js/main.d570d6f2.js",
     "static/js/415.55a0c812.chunk.js": "/My-Portfolio-WebSite/static/js/415.55a0c812.chunk.js",
     "static/js/787.0c8341db.chunk.js": "/My-Portfolio-WebSite/static/js/787.0c8341db.chunk.js",
     "static/media/Alperen_Eroglu_Resume.pdf": "/My-Portfolio-WebSite/static/media/Alperen_Eroglu_Resume.fdfe0a5c38fda8a2c0e5.pdf",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/My-Portfolio-WebSite/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My-Portfolio-WebSite/index.html",
     "main.d32812b0.css.map": "/My-Portfolio-WebSite/static/css/main.d32812b0.css.map",
-    "main.e0a7fc9a.js.map": "/My-Portfolio-WebSite/static/js/main.e0a7fc9a.js.map",
+    "main.d570d6f2.js.map": "/My-Portfolio-WebSite/static/js/main.d570d6f2.js.map",
     "415.55a0c812.chunk.js.map": "/My-Portfolio-WebSite/static/js/415.55a0c812.chunk.js.map",
     "787.0c8341db.chunk.js.map": "/My-Portfolio-WebSite/static/js/787.0c8341db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d32812b0.css",
-    "static/js/main.e0a7fc9a.js"
+    "static/js/main.d570d6f2.js"
   ]
 }
