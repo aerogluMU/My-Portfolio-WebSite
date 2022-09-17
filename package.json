@@ -2,6 +2,7 @@
   "name": "aerogluportfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://aeroglumu.github.io/My-Portfolio-WebSite/",
   "engines": {
     "node": "16.x",
     "npm": "8.x"
@@ -29,6 +30,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
