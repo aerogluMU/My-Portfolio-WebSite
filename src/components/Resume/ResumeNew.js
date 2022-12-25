@@ -22,17 +22,17 @@ function ResumeNew() {
     <div>
       <Container fluid className="resume-section">
         <Particle />
-        /*<Row style={{ justifyContent: "center", position: "relative" }}>
+        <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={pdf}
+            href="https://github.com/aerogluMU/aerogluMU/blob/main/src/Alperen_Eroglu_Resume.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row>*/
+        </Row>
 
         <Row className="resume">
           <Document file={resumeLink} className="d-flex justify-content-center">
@@ -45,17 +45,17 @@ function ResumeNew() {
           </Document>
         </Row>
 
-        /*<Row style={{ justifyContent: "center", position: "relative" }}>
+        <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={pdf}
+            href="https://github.com/aerogluMU/aerogluMU/blob/main/src/Alperen_Eroglu_Resume.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row>*/
+        </Row>
       </Container>
     </div>
   );
