@@ -8,17 +8,12 @@
 [![Node](https://badges.aleen42.com/src/node.svg)](#built-with) &nbsp;
 [![Node](https://badges.aleen42.com/src/atom.svg)](#built-with) &nbsp;
 [![Github](https://badges.aleen42.com/src/github.svg)](#my-github-page) &nbsp;
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](#my-heroku-portfolio) &nbsp;
 
 </div>
 
 ## My Github Page
 
 You can visit my github page <a href="https://aeroglumu.github.io/My-Portfolio-WebSite/" target="_blank">from here</a>.
-
-## My Heroku Portfolio
-
-You can also visit my heroku portfolio <a href="https://alpereneroglu.herokuapp.com" target="_blank">from here</a>.
 
 ## Built With
 
