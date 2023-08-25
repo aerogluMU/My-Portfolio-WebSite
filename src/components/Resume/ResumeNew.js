@@ -25,7 +25,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://github.com/aerogluMU/aerogluMU/blob/main/src/Alperen_Eroglu_Resume.pdf"
+            href={resumeLink}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -48,7 +48,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://github.com/aerogluMU/aerogluMU/blob/main/src/Alperen_Eroglu_Resume.pdf"
+            href={resumeLink}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
