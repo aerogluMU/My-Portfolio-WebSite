@@ -21,7 +21,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a young electrical and electronics engineer 👨‍💻 who continues his undergraduate education 👨🏻‍🎓,
+              I am a young electrical and electronics engineer 👨‍💻
               is eager to learn 🤓, has high working energy 💪, is strong in human relations 👌, is suitable for teamwork ✍️, and is social 🙋‍♂️.
               <br />
               <br /> I worked with various subjects such as
